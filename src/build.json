@@ -1,0 +1,21 @@
+{
+    "appTitle" : "Ebook Reader for Fire TV",
+    "html" : [
+        "../../common/html/index.html"
+    ],
+    "sass" : [
+        "../../common/scss/*.scss",
+        "firetv.scss"
+    ],
+    "assets" : [
+
+    ],
+    "appJS" : [
+
+        "init.js"
+    ],
+    "libJS" : [
+        "../../libs/jquery.js",
+        "../../libs/handlebars-v1.3.0.js"
+    ]
+}
